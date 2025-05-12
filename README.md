@@ -1,11 +1,10 @@
 
-<h1 align="center"> Hi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://www.linkedin.com/in/anshi-sachan/">Rohith</a> </h1>
+<h1 align="center"> Hi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://www.linkedin.com/in/rohith-dachepally/">Rohith</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://anshi-sachan.vercel.app">Portfolio</a> -
+  <a href="https://rohith-dachepally-portfolio.vercel.app">Portfolio</a> -
   <a href="https://www.linkedin.com/in/rohith-dachepally/">LinkedIn</a> -
-  <a href="https://medium.com/@anshijio123/about">Medium</a>
 </p>
 
 <summary><b>💫 About Me</b></summary>
