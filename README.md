@@ -12,11 +12,11 @@
 
  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
  
-👨🏻‍💻 DS Undergrad | Deemed to  Data Analyst | VBIT'27.<br>
+👨🏻‍💻 DS Undergrad | Deemed to  Data Analyst | VBIT'27<br>
 ⚡ Exploring AI and Machine Learning.<br>
 📫 Interested to participate in Hackathons all the time😎<br>
 
-  [![Email Badge](https://img.shields.io/badge/-arohithdachepally@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:anshi.sachan5@gmail.com)
+  [![Email Badge](https://img.shields.io/badge/-rohithdachepally@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:rohithdachepally@gmail.com)
 <br/> <br/>
 
 <!--- Profile views::::
