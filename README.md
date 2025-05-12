@@ -4,7 +4,7 @@
 <!--- Adding Header Elements -->
 <p align="center">
   <a href="https://rohith-dachepally-portfolio.vercel.app">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/rohith-dachepally/">LinkedIn</a> -
+  <a href="https://www.linkedin.com/in/rohith-dachepally/">LinkedIn</a> 
 </p>
 
 <summary><b>💫 About Me</b></summary>
