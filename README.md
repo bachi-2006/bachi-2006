@@ -47,7 +47,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=bachi-2006&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
 
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+<img height="130" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 
 
