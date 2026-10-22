@@ -173,7 +173,11 @@ impl Rohith {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bachi-2006&custom_title=COMMIT+FREQUENCY+CHART&bg_color=00000000&color=00FF41&line=00bfff&point=ffffff&area=true&area_color=00FF4115&hide_border=true" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=bachi-2006&theme=transparent&hide_border=true&stroke=00FF41&ring=00bfff&fire=FF6B6B&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=888888" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-trophies.vercel.app/?username=bachi-2006&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="90%"/>
 
 </div>
 
