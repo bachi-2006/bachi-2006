@@ -13,7 +13,7 @@
     D A C H E P A L L Y  //  v27.0.0-LTS
 ```
 
-<a href="https://rohith-dachepally-portfolio.vercel.app">
+<a href="https://rohith-dachepally.vercel.app">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=2800&pause=600&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=90&lines=%5BSYS%5D+Booting+ROHITH_OS+kernel+27.0...+%E2%9C%93;%5BSYS%5D+Mounting+%2Fskills+%2Fprojects+%2Fdreams...+%E2%9C%93;%5BSYS%5D+All+systems+nominal.+Welcome.+%E2%9C%93" alt="boot"/>
 </a>
 
@@ -23,7 +23,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-000000?style=flat-square&logoColor=white&labelColor=000000&color=00FF41)](https://rohith-dachepally-portfolio.vercel.app)&nbsp;[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-000000?style=flat-square&color=0A66C2)](https://www.linkedin.com/in/rohith-dachepally/)&nbsp;[![Gmail](https://img.shields.io/badge/◈_CONTACT-000000?style=flat-square&color=EA4335)](mailto:dachepallyrohith@gmail.com)&nbsp;[![GitHub](https://img.shields.io/badge/◈_SOURCE-000000?style=flat-square&color=6e40c9)](https://github.com/bachi-2006)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-000000?style=flat-square&logoColor=white&labelColor=000000&color=00FF41)](https://rohith-dachepally.vercel.app)&nbsp;[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-000000?style=flat-square&color=0A66C2)](https://www.linkedin.com/in/rohith-dachepally/)&nbsp;[![Gmail](https://img.shields.io/badge/◈_CONTACT-000000?style=flat-square&color=EA4335)](mailto:dachepallyrohith@gmail.com)&nbsp;[![GitHub](https://img.shields.io/badge/◈_SOURCE-000000?style=flat-square&color=6e40c9)](https://github.com/bachi-2006)
 
 <img src="https://komarev.com/ghpvc/?username=bachi-2006&label=UPTIME+VISITS&color=00FF41&style=flat-square" alt="views"/>
 
