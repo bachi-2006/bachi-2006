@@ -19,11 +19,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Data+Scientist+%2F%2F+ML+Engineer+%2F%2F+Builder" alt="title"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=AI%2FML+Engineer+%2F%2F+Full-Stack+Dev+%2F%2F+Builder" alt="title"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-000000?style=flat-square&logoColor=white&labelColor=000000&color=00FF41)](https://rohith-dachepally-portfolio.vercel.app)&nbsp;[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-000000?style=flat-square&color=0A66C2)](https://www.linkedin.com/in/rohith-dachepally/)&nbsp;[![Gmail](https://img.shields.io/badge/◈_CONTACT-000000?style=flat-square&color=EA4335)](mailto:rohithdachepally@gmail.com)&nbsp;[![GitHub](https://img.shields.io/badge/◈_SOURCE-000000?style=flat-square&color=6e40c9)](https://github.com/bachi-2006)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-000000?style=flat-square&logoColor=white&labelColor=000000&color=00FF41)](https://rohith-dachepally-portfolio.vercel.app)&nbsp;[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-000000?style=flat-square&color=0A66C2)](https://www.linkedin.com/in/rohith-dachepally/)&nbsp;[![Gmail](https://img.shields.io/badge/◈_CONTACT-000000?style=flat-square&color=EA4335)](mailto:dachepallyrohith@gmail.com)&nbsp;[![GitHub](https://img.shields.io/badge/◈_SOURCE-000000?style=flat-square&color=6e40c9)](https://github.com/bachi-2006)
 
 <img src="https://komarev.com/ghpvc/?username=bachi-2006&label=UPTIME+VISITS&color=00FF41&style=flat-square" alt="views"/>
 
@@ -41,7 +41,7 @@
 // rohith.rs  —  compiled with rustc 27.0 (VBIT edition)
 
 pub struct Rohith {
-    designation : &'static str,   // "Data Scientist · ML Engineer · Full-Stack Dev"
+    designation : &'static str,   // "AI/ML Engineer · Full-Stack Dev · Builder"
     base_of_ops : &'static str,   // "Hyderabad, India  [17.3850° N, 78.4867° E]"
     affiliation : &'static str,   // "VBIT '27 — Undergraduate"
     core_stack  : [&'static str; 8],
@@ -51,15 +51,15 @@ pub struct Rohith {
 impl Rohith {
     pub fn new() -> Self {
         Self {
-            designation : "Data Scientist · ML Engineer · Full-Stack Dev",
+            designation : "AI/ML Engineer · Full-Stack Dev · Builder",
             base_of_ops : "Hyderabad, India  [17.3850° N, 78.4867° E]",
             affiliation : "VBIT '27 — Undergraduate",
             core_stack  : [
-                "Python", "Machine Learning", "Deep Learning",
-                "React", "Next.js", "SQL",
-                "TensorFlow", "Data Visualization"
+                "Python", "TypeScript", "LLM Agents",
+                "RAG", "Next.js", "FastAPI",
+                "PostgreSQL", "Docker"
             ],
-            directive   : "Turning raw data into decisions, ideas into products.",
+            directive   : "Shipping AI systems that do real work.",
         }
     }
 
@@ -71,6 +71,43 @@ impl Rohith {
         vec!["Hackathon squads", "OSS collaboration", "Research", "Wild ideas"]
     }
 }
+```
+
+---
+
+<div align="center">
+
+## ▸ DEPLOYED SYSTEMS
+
+</div>
+
+| System | What it does | Stack |
+|---|---|---|
+| **[Incident Radar](https://github.com/bachi-2006/Incident-Radar)** · [live](https://incident-radar.onrender.com) | Agentic incident recovery: LLM root-cause triage + policy engine (ACT / ASK / NOTIFY), SHA-256 recovery receipts, Slack alerts | Next.js 15 · Supabase · Workato · Claude |
+| **[MemOS](https://github.com/bachi-2006/MemOS)** | Local-first long-term memory for Ollama LLMs: vector search, knowledge graph, importance decay, conflict resolution | FastAPI · PostgreSQL · Qdrant · Neo4j · Redis |
+| **[TraceTox](https://github.com/bachi-2006/TraceTox)** | Phone-camera verification of field drug-test kits: colour-card calibration, classification, cryptographically signed records | Python · Computer Vision |
+| **[Drug Recognition System](https://github.com/bachi-2006/Drug-Recognition-System)** | Detects drug interactions, validates dosage, suggests safer alternatives | Python · NLP · IBM Granite |
+| **[Train-Flow Optimization](https://github.com/bachi-2006/Train-Flow-Optimization-SIH)** | Smart India Hackathon build for railway traffic optimization | TypeScript |
+| **[GController](https://github.com/bachi-2006/GController)** | Zero-install phone-to-PC controller over WebSockets | Node.js · WebSockets · PowerShell |
+
+---
+
+<div align="center">
+
+## ▸ EXPERIENCE LOG
+
+</div>
+
+```log
+[2026-05 → now ]  Technical Co-Lead        @ IEI VBIT Student Chapter
+[2026-06 → 08  ]  Google AI-ML Intern      @ AICTE · EduSkills
+[2026-06 → 07  ]  Cyber Security Intern    @ VirtualWorks Lab
+[2025-08 → 11  ]  AI for Sustainability    @ 1M1B × IBM SkillsBuild
+[2025-06 → 07  ]  AI Developer Intern      @ VISWAM.AI (Swecha)
+[2025-06 → 26-06]  Hospitality Coordinator  @ Crowdsource by Google India
+
+[HACKATHONS]  Workato · IndiaCodex 2026 (Cardano) · Smart India Hackathon · Masters' Union × React Hyderabad
+[CERTS]       AWS Cloud Architecting · AWS Generative AI · IBM Generative AI · Google AI Essentials · HackerRank SQL (Adv)
 ```
 
 ---
@@ -89,6 +126,7 @@ impl Rohith {
 
 ![Python](https://img.shields.io/badge/Python-■■■■■-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-■■■■□-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-■■■■□-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-■■■□□-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-■■■□□-00599C?style=flat-square&logo=c&logoColor=white)
 
@@ -97,20 +135,24 @@ impl Rohith {
 
 **⬡ AI / DATA**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-■■■■□-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-■■■□□-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Sklearn-■■■■■-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LLM Agents](https://img.shields.io/badge/LLM_Agents-■■■■□-8A2BE2?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-■■■■□-FF6F00?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-■■■■□-000000?style=flat-square&logo=ollama&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-■■■□□-DC2626?style=flat-square)
+![Neo4j](https://img.shields.io/badge/Neo4j-■■■□□-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-■■■■■-150458?style=flat-square&logo=pandas&logoColor=white)
 
 </td>
 <td align="center" width="33%">
 
-**⬡ WEB / TOOLS**
+**⬡ WEB / CLOUD**
 
-![React](https://img.shields.io/badge/React-■■■■□-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-■■■□□-000000?style=flat-square&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-■■■□□-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-■■■■■-F05032?style=flat-square&logo=git&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-■■■■□-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-■■■■□-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-■■■■□-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-■■■■□-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-■■■□□-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Cardano](https://img.shields.io/badge/Cardano-■■■□□-0033AD?style=flat-square&logo=cardano&logoColor=white)
 
 </td>
 </tr>
@@ -129,23 +171,9 @@ impl Rohith {
 <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bachi-2006&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=00FF41&text_color=c9d1d9"/>
 </a>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bachi-2006&theme=transparent&hide_border=true&stroke=00FF41&ring=00bfff&fire=FF6B6B&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=888888" width="60%"/>
-
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bachi-2006&custom_title=COMMIT+FREQUENCY+CHART&bg_color=00000000&color=00FF41&line=00bfff&point=ffffff&area=true&area_color=00FF4115&hide_border=true" width="90%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ▸ TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=bachi-2006&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="90%"/>
 
 </div>
 
@@ -158,12 +186,12 @@ impl Rohith {
 </div>
 
 ```yaml
-# ps aux — rohith@vbit  [2025]
+# ps aux — rohith@vbit  [2026]
 
 PID   NAME                          STATUS    PRIORITY
 ───   ──────────────────────────    ──────    ────────
 001   AI-Powered Web Applications   RUNNING   ██████████  CRITICAL
-002   Deep Learning Research        RUNNING   ████████░░  HIGH
+002   Agentic AI / LLM Memory       RUNNING   ████████░░  HIGH
 003   Hackathon Campaigns           RUNNING   ███████░░░  HIGH
 004   Open Source Contributions     PENDING   █████░░░░░  MEDIUM
 005   Portfolio V2 Build            RUNNING   ██████░░░░  HIGH
@@ -201,7 +229,7 @@ CPU:    [█████████████████░░░] 85% — o
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-[![Connect](https://img.shields.io/badge/▸_INITIATE_CONTACT_VIA_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-dachepally/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/▸_SEND_TRANSMISSION-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithdachepally@gmail.com)
+[![Connect](https://img.shields.io/badge/▸_INITIATE_CONTACT_VIA_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-dachepally/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/▸_SEND_TRANSMISSION-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dachepallyrohith@gmail.com)
 
 <br/>
 
